@@ -1,2 +1,2 @@
 # cpp-book-project
-cpp book project code organised by chapters
+cpp book project  program solutions organised by chapters
